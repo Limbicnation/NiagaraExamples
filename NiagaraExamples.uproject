@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.22",
+	"EngineAssociation": "4.23",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -18,10 +18,6 @@
 		},
 		{
 			"Name": "HoudiniNiagara",
-			"Enabled": true
-		},
-		{
-			"Name": "OctanePlugin",
 			"Enabled": true
 		}
 	]
