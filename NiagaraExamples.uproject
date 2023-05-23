@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.23",
+	"EngineAssociation": "5.2",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -9,15 +9,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NiagaraExtras",
-			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		},
-		{
-			"Name": "HoudiniNiagara",
+			"Name": "ExampleCustomDataInterface",
 			"Enabled": true
 		}
 	]
